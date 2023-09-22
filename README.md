@@ -9,6 +9,7 @@
   👋&nbsp; Hi there! I'm a backend web developer.<br/>
   I've been really interested in PS, AI, and data visualization.<br/>
   I enjoy fitness, hiking, and running :)<br/>
+  I have a hobby of collecting shoes !! 👟👞🥾✨😄
 </p>
 
   
